@@ -25,7 +25,7 @@ El estudio de viabilidad incluye:
 - **Anticipación de consecuencias**: Analizar el impacto potencial de los riesgos identificados.
 - **Minimización de consecuencias**: Diseñar estrategias para reducir el impacto de los riesgos.
 
-![Acta de constitución del proyecto](project_foundation_document.png)
+![Acta de constitución del proyecto](assets/project_foundation_document.png)
 
 ## Acta de constitución del proyecto
 
@@ -51,7 +51,7 @@ El **acta de constitución del proyecto** se revisa y se discute en la reunión 
 
 Se compone de una serie de actividades diseñadas para definir un nuevo proyecto o una nueva fase de un proyecto existente. Estas actividades incluyen:
 
-![Tareas, conocimientos y habilidades en el proceso de inicio](tasks_skills_overview.png)
+![Tareas, conocimientos y habilidades en el proceso de inicio](assets/tasks_skills_overview.png)
 
 ### Proceso de inicio - Entradas
 
@@ -133,7 +133,7 @@ Proceso de desarrollo de estrategias para involucrar a los interesados en las de
 - **Nuevos individuos o grupos**
 - **Revisión de las estrategias**
 
-![Matriz de evaluación del involucramiento de los interesados](stakeholder_engagement_matrix.png)
+![Matriz de evaluación del involucramiento de los interesados](assets/stakeholder_engagement_matrix.png)
 
 ### Gestión de interesados
 
@@ -141,7 +141,7 @@ Proceso de desarrollo de estrategias para involucrar a los interesados en las de
 - **Solucionar los problemas de dirección**: Resolver conflictos y desafíos relacionados con los interesados.
 - **Motivar la participación de los interesados**: Fomentar su compromiso y apoyo.
 
-![Gestión de los interesados](stakeholder_interest_management.png)
+![Gestión de los interesados](assets/stakeholder_interest_management.png)
 
 ### Monitorización de los interesados
 

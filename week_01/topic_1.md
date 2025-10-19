@@ -38,7 +38,7 @@ Son los principios y creencias fundamentales que guían el comportamiento y la t
 - **¿En qué creemos?**
 - **¿Cómo nos diferenciamos de nuestros competidores?**
 
-![Misión, visión y valores](mission_vision_values.png)
+![Misión, visión y valores](assets/mission_vision_values.png)
 
 ## Portafolio, programa y proyectos
 
@@ -47,13 +47,13 @@ Son los principios y creencias fundamentales que guían el comportamiento y la t
 - **Proyecto**: Es un esfuerzo temporal que se lleva a cabo para crear un producto, servicio o resultado único. Tiene un inicio y un final definidos, así como objetivos específicos que deben cumplirse. Se centra en **hacer las cosas**.
 - **Operaciones**: Son la función de la organización que efectúan permanentemente actividades que generan un mismo producto o prevén un servicio. Las operaciones son continuas, mientras que los proyectos son temporales y se subdividen en fases para cumplir su objetivo final. Además, las operaciones pueden ser influidas y hasta creadas por proyectos.
 
-![Diagrama jerárquico](hierarchical_diagram.png)
+![Diagrama jerárquico](assets/hierarchical_diagram.png)
 
 ## Procesos y ciclos de vida
 
 - **Proceso**: Conjunto de actividades mutuamente relacionadas o que interactúan, las cuales transforman elementos de entrada en resultados. Según la **ISO-9000 2015**, un proceso puede ser de dirección de proyectos o estar orientado al producto.
 
-![Entradas y salidas en un proceso](process-input-output-diagram.png)
+![Entradas y salidas en un proceso](assets/process-input-output-diagram.png)
 
 ### Grupos de procesos
 
@@ -63,7 +63,7 @@ Son los principios y creencias fundamentales que guían el comportamiento y la t
 - Seguimiento y control
 - Cierre
 
-![grupos de procesos](process_groups_diagram.png)
+![grupos de procesos](assets/process_groups_diagram.png)
 
 ### Ciclo de vida del proyecto
 
