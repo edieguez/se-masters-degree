@@ -1,4 +1,4 @@
-# Resumen de la semana 1
+# Conceptos clave de la dirección de Proyectos
 
 ## Objetivos estratégicos y planes estratégicos
 
